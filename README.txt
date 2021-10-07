@@ -1,4 +1,5 @@
 Informacion sobre la Red Neuronal
+el codigo es en python en spyder con anaconda usando keras con Tensorflow 
 
 Antes de todo para crear las red neuronal intenta crear una carpeta con el nombre de esta o nombre a gusto.
 Dentro de la misma carpeta crear dos carpetas una que se deberia llamar data donde pondremos todas las imagenes que quieras 
