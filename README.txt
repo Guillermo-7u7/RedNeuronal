@@ -111,5 +111,5 @@ def predict(file):
   elif answer == 1:
     print("pred: Lamborghini")
 
-en este apartado es para que escribas las iamgenes que deseas que te diga de que clase proviene y si la red neuronal cumple con su funcion.
+en este apartado es para que escribas las imagene que deseas, que te diga de que clase proviene y si la red neuronal cumple con su funcion te dara la mejor respuesta.
 predict('lamb3.jpg')
